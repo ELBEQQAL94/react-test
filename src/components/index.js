@@ -1,0 +1,9 @@
+export { default as NavBar } from './NavBar';
+export { default as Hero } from './Hero';
+export { default as WhoWeAre } from './WhoWeAre';
+export { default as OurTool } from './OurTool';
+export { default as Services } from './Services';
+export { default as HowItWorks } from './HowItWorks';
+export { default as Features } from './Features';
+export { default as OurToolCustom } from './OurToolCustom';
+export { default as Footer } from './Footer';
